@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">CYMBYL</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_1">
+        Welcome to CYMBYL - the smarter phone app that is going to help you Change Your Mind, so you can Better Your Life.
+    </string>
+    <string name="about_2">
+        It is as simple as entering the new mantra you want to learn, then the frequency of the reminders, and hitting start.
+    </string>
+    <string name="about_3">
+        Persevere and enjoy the transformation!
+    </string>
+    <string name="input_description">
+        Enter the new mental mantra that you want to learn in the box below. (maximum 150 characters)
+    </string>
+
+    <string name="frequency_description">
+        Set how often and what times you will receive your daily mental script notifications.
+    </string>
+
+    <string name="description_title">
+        <b>Change Your Mind\nBetter Your Life</b>
+    </string>
+
+    <string name="description_1">
+        Our app helps you develop new mental habits and effect lasting change in your life. Using
+        positive affirmations through consistent reminders, CYMBYL keeps you on track towards a new you!
+    </string>
+
+    <string name="description_2">
+        Create your own new mantra, select how often and how many times you want to be reminded and
+        which hours of the day. CYMBYL does the rest! It focuses you on improving one habit at a time,
+        so you can start building the better life you desire.
+    </string>
+
+    <string name="description_3">
+        Everyone wants change - CYMBYL makes it easy.
+    </string>
+
+    <string name="Status">
+        Based on the information you entered, CYMBYL will  display
+    </string>
+
+</resources>
